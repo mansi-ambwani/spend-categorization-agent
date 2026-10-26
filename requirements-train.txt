@@ -1,0 +1,8 @@
+# Extra packages for QLoRA fine-tuning / LLM inference (needs an NVIDIA GPU).
+# On Google Colab torch is already installed - do not reinstall it.
+-r requirements.txt
+transformers==5.20.2
+peft==0.21.2
+accelerate==1.15.0
+bitsandbytes>=0.46
+tokenizers>=0.22

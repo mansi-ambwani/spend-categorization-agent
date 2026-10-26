@@ -1,0 +1,62 @@
+[
+  {
+    "category": "IT Hardware",
+    "description": "Physical computing and networking equipment: laptops, desktops, monitors, servers, peripherals, printers, network devices."
+  },
+  {
+    "category": "Software & SaaS",
+    "description": "Software licences, subscriptions and SaaS tools (per-seat or annual), including renewals and support for software."
+  },
+  {
+    "category": "Cloud & Telecom Services",
+    "description": "Cloud infrastructure usage, internet / leased lines, mobile and telephony, hosting, managed IT and IT support services."
+  },
+  {
+    "category": "Office Supplies",
+    "description": "Stationery and consumables used at desks: paper, pens, files, toner and ink, small office items."
+  },
+  {
+    "category": "Facilities & Maintenance",
+    "description": "Running and maintaining office buildings: housekeeping, security, repairs, AMC for building equipment, furniture, office rent."
+  },
+  {
+    "category": "Professional Services",
+    "description": "External expert services: audit, legal, tax, consulting, certification and advisory fees."
+  },
+  {
+    "category": "Marketing & Advertising",
+    "description": "Promoting the company: digital ads, media buying, agencies, events, printed collateral, branded merchandise."
+  },
+  {
+    "category": "Travel & Entertainment",
+    "description": "Employee business travel and client entertainment: flights, hotels, cabs, trains, visas, meals with clients, offsites."
+  },
+  {
+    "category": "Logistics & Freight",
+    "description": "Moving goods: couriers, domestic and international freight, customs clearance, warehousing and 3PL."
+  },
+  {
+    "category": "Raw Materials",
+    "description": "Direct materials that go into manufactured products: metals, polymers, chemicals, yarn, components."
+  },
+  {
+    "category": "MRO & Industrial Supplies",
+    "description": "Maintenance, repair and operations items for factories and plants: safety gear, tools, spares, lubricants, fasteners."
+  },
+  {
+    "category": "Utilities & Energy",
+    "description": "Electricity, water, gas and fuel bills for sites; diesel for generators; power purchase agreements."
+  },
+  {
+    "category": "HR & Training",
+    "description": "People-related spend: recruitment, staffing, background checks, learning and training, employee benefits and insurance."
+  },
+  {
+    "category": "Food & Catering",
+    "description": "Food and beverages for employees and events: cafeteria, pantry supplies, meals, snacks, drinking water."
+  },
+  {
+    "category": "Packaging Materials",
+    "description": "Materials used to pack and ship products: boxes, cartons, films, tapes, pallets, labels, containers."
+  }
+]

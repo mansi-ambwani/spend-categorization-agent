@@ -1,0 +1,23 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+models/checkpoints/
+models/tiny-*/
+*.zip
+# large / generated / machine-specific files
+models/
+kaggle_output/
+reports/predictions_*.csv
+gpu_info.txt
+colab_cell.txt
+check_gpu.bat
+install_results.bat
+install_results.log
+kaggle_log.txt
+kaggle_status.txt
+kaggle_job/kaggle_user.txt
+kaggle_job/kernel-metadata.json
+git_log.txt

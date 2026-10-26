@@ -1,0 +1,11 @@
+# Runs the app, data pipeline, baseline and agent on any laptop (CPU is enough).
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.8
+joblib>=1.4
+requests>=2.31
+python-dotenv>=1.0
+streamlit>=1.50
+pytest>=8.0
+altair>=5.0
